@@ -3,4 +3,5 @@ Corpus untuk proses analisis sentimen pada ulasan berbahasa Indonesia pada Googl
 - Positif
 - Negatif
 - Crash
+
 Masing-masing polaritas sentimen terdiri dari 607 komentar.
